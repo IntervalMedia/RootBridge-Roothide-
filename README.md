@@ -1,6 +1,6 @@
 # RootBridge
 
-An iOS developer framework for rootless tweak development. This framework makes it possible to compile "universal" (root + rootless) binaries.
+An iOS developer framework for rootless and roothide tweak development. This framework makes it possible to compile "universal" (root + rootless) binaries.
 
 ## Universal Binaries
 
